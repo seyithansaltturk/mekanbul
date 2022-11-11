@@ -1,7 +1,7 @@
 var express = require("express");
 var router = express.Router();
 
-// slash gördüğün zaman function çalışır
+
 const anaSayfa = function (req, res, next) {
   res.render("anasayfa", {
     "baslik": "Anasayfa",
