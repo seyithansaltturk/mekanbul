@@ -8,7 +8,7 @@
 
 
 
-<a href="https://localhost:3000/api/mekanlar/637b73dbd26cc8c496910bda"> 2 - Mekanın ID ve Bilgilerini Getir</a>
+<a href="https://mekanbul.seyithansaltturk.repl.co/api/mekanlar/637b73dbd26cc8c496910bda"> 2 - Mekanın ID ve Bilgilerini Getir</a>
 
 ![mongodb-mekanlar](https://user-images.githubusercontent.com/104761312/203406651-9d98f007-3840-426b-94df-e034df2ec0d4.png)
 
